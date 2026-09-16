@@ -12,4 +12,4 @@ git checkout -b feature/nombre de la funcionalidad
 
 
 esternocleidomastoideo, semana 5 y semana 6 para el examen del próximo martes 
-
+El manguito rotador son los músculos y  tendones que nos permiten girar el brazo. 
