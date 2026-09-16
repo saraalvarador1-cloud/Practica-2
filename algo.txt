@@ -1,0 +1,15 @@
+Cada vez que suba algo de visual a GitHub debo de hacer: 
+1.actualizar copia 
+git pull
+2.guardar archivo 
+(Ctrl + S).
+3.Guardar y enviar tus cambios a GitHub (Al terminar):
+-Preparar los archivos modificados:git add .
+-Crear el punto de guardado con un mensaje de lo que hiciste:git commit -m "Agregada la estructura base del proyecto"
+-Subir tus cambios a GitHub:git push
+
+git checkout -b feature/nombre de la funcionalidad 
+
+
+esternocleidomastoideo, semana 5 y semana 6 para el examen del próximo martes 
+
