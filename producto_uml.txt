@@ -1,0 +1,23 @@
+- Clase Base: Producto
+  Atributos: #id_Producto, #precio, #foto, #materiales, -estado
+  Métodos: #actualizarStock(), #obtenerDetalles(), +obtenerPrecio()
+
+  |Subclase: Vestido
+      Atributos: -medidas, -color, -tipoCorte, -requiereCambios
+      Métodos: +registrarTalla(), +solicitarModificacion()
+
+  |Subclase: Tarjeta
+      Atributos: -cantidad, -diseno
+      Métodos: +calcularCostoImpresion()
+
+  |Subclase: Album
+      Atributos: -dimensiones, -materialTapa, -tamano, -diseno
+      Métodos: +verificarDisponible(), +seleccionarDiseno()
+
+  |Subclase: Copa
+      Atributos: -cantidad, -capacidad, -diseno
+      Métodos: +verificarStock(), +seleccionarDiseno()
+
+  |Subclase: Peluche
+      Atributos: -tamano, -modelo
+      Métodos: +verificarDisponibilidad(), +seleccionarDiseno()
