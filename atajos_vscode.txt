@@ -1,0 +1,5 @@
+Ctrl + ~ : Abre o cierra la terminal 
+Ctrl + P : Búsqueda de archivos por nombre
+Ctrl + Shift + L : Selecciona todas las coincidencias del texto actual
+Shift + Alt + Flecha Abajo : Duplica la línea actual hacia abajo.
+Shift + Alt + Flecha Abajo : Duplica la línea actual hacia abajo.
