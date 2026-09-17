@@ -1,0 +1,8 @@
+1. git add .
+   Prepara todos los archivos modificados o nuevos para el commit (staging area).
+
+2. git commit -m "mensaje"
+   Guarda los cambios preparados en el historial local con un mensaje descriptivo.
+
+3. git push origin nombre-de-rama
+   Sube los commits de tu rama local al repositorio remoto en GitHub.
