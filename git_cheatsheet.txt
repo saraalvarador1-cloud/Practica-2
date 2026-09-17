@@ -6,3 +6,6 @@
 
 3. git push origin nombre-de-rama
    Sube los commits de tu rama local al repositorio remoto en GitHub.
+
+4. git status  -> Muestra el estado de los archivos
+5. git log     -> Ver historial de commits
